@@ -5,6 +5,8 @@
 // Log hello world
 console.log("Hello world");
 
-// My age
-console.log("I am 25 years old");
+// My Age
+console.log("I am 21"); 
 
+// My Height
+console.log("6'7");
